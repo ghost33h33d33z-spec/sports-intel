@@ -1,0 +1,13 @@
+# HTTP — browser fingerprinting + Cloudflare bypass
+curl_cffi==0.7.1
+
+# HTML parsing
+parsel==1.9.1
+
+# WebSocket (for Spro.agency live stream)
+websockets==12.0
+
+# Machine learning
+scikit-learn==1.5.1
+numpy==1.26.4
+joblib==1.4.2
